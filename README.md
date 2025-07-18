@@ -120,3 +120,12 @@ python one_step_score.py --input user_transactions.json
 - The model is fully explainable and does not require labeled training data.
 - Repayment ratio and capital management features are placeholders if not present in your data.
 - For more details, see `analysis.md`.
+
+
+#Data set download from this link
+
+#Link to the user-transactions json file: 
+The below file is raw json file (~87MB)
+https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing
+Or if you prefer the compressed zip file (~10MB)
+https://drive.google.com/file/d/14ceBCLQ-BTcydDrFJauVA_PKAZ7VtDor/view?usp=sharing
