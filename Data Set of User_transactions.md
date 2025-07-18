@@ -5,12 +5,15 @@
 📁 Dataset: Aave V2 User Transactions
 This dataset contains raw transaction-level data for user interactions with the Aave V2 DeFi protocol, structured as JSON records. Each transaction represents an action taken by a wallet address on the Aave protocol, such as deposits, borrows, repayments, liquidations, or withdrawals.
 
-📦 File Information
-Raw JSON file (~87 MB):
-Download user-transactions.json
+### Link to the user-transactions json file:
 
-Compressed ZIP file (~10 MB):
-Download user-transactions.zip
+The below file is raw json file (~87MB)
+
+https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing
+
+Or if you prefer the compressed zip file (~10MB)
+
+https://drive.google.com/file/d/14ceBCLQ-BTcydDrFJauVA_PKAZ7VtDor/view?usp=sharing
 
 You can download and unzip the compressed version for easier local processing.
 
